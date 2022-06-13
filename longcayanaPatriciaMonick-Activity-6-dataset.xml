@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE Glucose_Per_Capita_Availability_Adjusted_For_Loss1 [
+<!ELEMENT Glucose_Per_Capita_Availability_Adjusted_For_Loss1 (report)>
+
+<!ELEMENT report (year, primary_weight, loss_from_primary_to_retail_weight, retail_weight, loss_from_retail_institutional_to_consumer_level, consumer_weight, nonedible_share, edible_weight, cooking_loss_and_uneaten_food, total_loss_all_levels)>
+
+
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT primary_weight (#PCDATA)>
+<!ELEMENT loss_from_primary_to_retail_weight (#PCDATA)>
+<!ELEMENT retail_weight (#PCDATA)>
+<!ELEMENT loss_from_retail_institutional_to_consumer_level (#PCDATA)>
+<!ELEMENT consumer_weight (#PCDATA)>
+<!ELEMENT nonedible_share (#PCDATA)>
+<!ELEMENT edible_weight (#PCDATA)>
+<!ELEMENT cooking_loss_and_uneaten_food (#PCDATA)>
+<!ELEMENT total_loss_all_levels (#PCDATA)>
+
+<!ATTLIST report row CDATA #REQUIRED>
+
+]>
+
+<Glucose_Per_Capita_Availability_Adjusted_For_Loss1>
+
+	
+
+	<report id = "row 1">
+		<year>1970</year>
+		<primary_weight>10.7</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>10.7</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>9.6</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>9.6</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 2">
+		<year>1971</year>
+		<primary_weight>11.2</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>11.2</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>10.0</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>10.0</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 3">
+		<year>1972</year>
+		<primary_weight>12.0</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>12.0</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>10.7</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>10.7</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 4">
+		<year>1973</year>
+		<primary_weight>13.1</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>13.1</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>11.6</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>11.6</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 5">
+		<year>1974</year>
+		<primary_weight>13.8</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>13.8</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>12.3</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>12.3</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 6">
+		<year>1975</year>
+		<primary_weight>14.0</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>14.0</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>12.5</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>12.5</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 7">
+		<year>1976</year>
+		<primary_weight>13.9</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>13.9</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>12.5</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>12.4</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+		<report id = "row 8">
+		<year>1977</year>
+		<primary_weight>13.8</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>13.8</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>12.3</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>12.3</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 9">
+		<year>1978</year>
+		<primary_weight>13.9</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>13.9</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>12.4</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>12.4</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+	<report id = "row 10">
+		<year>1979</year>
+		<primary_weight>13.5</primary_weight>
+		<loss_from_primary_to_retail_weight>0.0</loss_from_primary_to_retail_weight>
+		<retail_weight>13.5</retail_weight>
+		<loss_from_retail_institutional_to_consumer_level>11.0</loss_from_retail_institutional_to_consumer_level>
+		<consumer_weight>12.0</consumer_weight>
+		<nonedible_share>0.0</nonedible_share>
+		<edible_weight>12.0</edible_weight>
+		<cooking_loss_and_uneaten_food>34.0</cooking_loss_and_uneaten_food>
+		<total_loss_all_levels>41</total_loss_all_levels>
+	</report>
+
+
+
+</Glucose_Per_Capita_Availability_Adjusted_For_Loss1>
